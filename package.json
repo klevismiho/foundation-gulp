@@ -1,0 +1,12 @@
+{
+	"name": "foundation-gulp",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/klevismiho/foundation-gulp.git"
+	},
+	"devDependencies": {
+		"gulp": "^3.9.0",
+		"gulp-sass": "^2.0.4"
+	}
+}
