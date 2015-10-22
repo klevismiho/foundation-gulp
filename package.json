@@ -1,12 +1,15 @@
 {
-	"name": "foundation-gulp",
-	"version": "0.0.1",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/klevismiho/foundation-gulp.git"
-	},
-	"devDependencies": {
-		"gulp": "^3.9.0",
-		"gulp-sass": "^2.0.4"
-	}
+  "name": "foundation-gulp",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klevismiho/foundation-gulp.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-util": "^3.0.6"
+  }
 }
